@@ -1,2 +1,5 @@
 # hello-word
-simple exercise
+
+Hi folks!
+
+Having nothing to tell you right now :)
